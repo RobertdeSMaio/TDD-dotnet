@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Rober\\OneDrive\\Documentos\\TDD dotnet\\tdd\\tdd.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Rober\\OneDrive\\Documentos\\TDD dotnet\\tdd\\tdd.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rober\\OneDrive\\Documentos\\TDD dotnet\\tdd\\tdd.csproj",
+        "projectName": "tdd",
+        "projectPath": "C:\\Users\\Rober\\OneDrive\\Documentos\\TDD dotnet\\tdd\\tdd.csproj",
+        "packagesPath": "C:\\Users\\Rober\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rober\\OneDrive\\Documentos\\TDD dotnet\\tdd\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rober\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net31": {
+            "targetAlias": "net3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net31": {
+          "targetAlias": "net3.1",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
